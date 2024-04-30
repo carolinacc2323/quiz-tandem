@@ -1,10 +1,10 @@
 {
-    "title":"Paseo por el casco viejo de Aranjuez",
+    "title":"Quiz Game Aranjuez",
     "id_test":"",
     "description": "Un paseo de una hora por los monumentos más representativos de Aranjuez",
     "author": "Carolina",
     "img_feature":{
-        "url": "./img/plazaayuntamiento.jpg",
+        "url": "./img/palacio.jpg",
         "alt": "Vista de la Plaza Mayor de Aranjuez"
     },
     "questions" : [[
