@@ -1,0 +1,233 @@
+{
+    "title":"Paseo por el casco viejo de Aranjuez",
+    "id_test":"",
+    "description": "Un paseo de una hora por los monumentos más representativos de Aranjuez",
+    "author": "Carolina",
+    "img_feature":{
+        "url": "./img/plazaayuntamiento.jpg",
+        "alt": "Vista de la Plaza Mayor de Aranjuez"
+    },
+    "questions" : [[
+        {
+        "id": 1,
+        "question": "¿Qué monarca terminó añadiendo las alas que le dan forma de U al palacio?",
+        "answers":{
+            "a": "Felipe VI",
+            "b": "Carlos III-",
+            "c": "Fernando VII",
+            "d": "Carlos V"
+        },
+        "results":{
+            "a": false,
+            "b": true,
+            "c": false,
+            "d": false
+        },
+        "img_question":{
+            "url": "./img/palacio.jpg",
+            "alt": "Palacio Real",
+            "desc": "Foto frontal del palacio"
+        },
+        "hint": "Pista: Lee las inscripciones de las alas del palacio",
+        "curiosity": ""
+    },{
+        "id": 2,
+        "question": "La Casa de Oficios y de Caballeros son independientes del palacio. Pero… ¿qué elemento las une al palacio?",
+        "answers":{
+            "a": "Puertas",
+            "b": "Escaleras",
+            "c": "Acueducto",
+            "d": "Galería portificada-"
+        },
+        "results":{
+            "a": false,
+            "b": false,
+            "c": false,
+            "d": true
+        },
+        "img_question":{
+            "url": "./img/galeriaport.jpg",
+            "alt": "Galería",
+            "desc": ".."
+        },
+        "hint": "",
+        "curiosity": ""
+    },{
+        "id": 3,
+        "question": "¿Qué función cumplía la Casa de Oficios?",
+        "answers":{
+            "a": "Almacén de mantenimiento",
+            "b": "Mantenimiento y administración del Real Sitio-",
+            "c": "Alojamiento de los sirvientes",
+            "d": "Picadero para el rey"
+        },
+        "results":{
+            "a": false,
+            "b": true,
+            "c": false,
+            "d": false
+        },
+        "img_question":{
+            "url": "./img/casaoficios.jpg",
+            "alt": "Casa de Oficios",
+            "desc": ".."
+        },
+        "hint": "",
+        "curiosity": ""
+    },{
+        "id": 4,
+        "question": "Para entrar al Jardín de la Isla tendrás que pasar por un PUENTE. ¿Qué hay debajo de ese puente?",
+        "answers":{
+            "a": "Un foso",
+            "b": "Un canal de agua-",
+            "c": "Un lago",
+            "d": "Un pantano"
+        },
+        "results":{
+            "a": false,
+            "b": true,
+            "c": false,
+            "d": false
+        },
+        "img_question":{
+            "url": "./img/canal.jpg",
+            "alt": "Canal de agua",
+            "desc": ".."
+        },
+        "hint": "",
+        "curiosity": ""
+    },{
+        "id": 5,
+        "question": "El Jardín de la Isla tiene forma TRIANGULAR. Pero... ¿a qué crees que debe su nombre?",
+        "answers":{
+            "a": "Está rodeado de agua-",
+            "b": "Al apellido de un personaje famoso",
+            "c": "Está rodeado de palmeras",
+            "d": "A su forma poligonal"
+        },
+        "results":{
+            "a": true,
+            "b": false,
+            "c": false,
+            "d": false
+        },
+        "img_question":{
+            "url": "./img/planojardin",
+            "alt": "Plano del Jardín de la Isla",
+            "desc": ".."
+        },
+        "hint": "",
+        "curiosity": ""
+    },{
+        "id": 6,
+        "question": "¿En qué está inspirada la forma de la Iglesia de San Antonio?",
+        "answers":{
+            "a": "Palacio de El Escorial",
+            "b": "Templo griego",
+            "c": "Coliseo de Roma",
+            "d": "Panteón de Roma-"
+        },
+        "results":{
+            "a": false,
+            "b": false,
+            "c": false,
+            "d": true
+        },
+        "img_question":{
+            "url": "./img/iglesiasanantonio.jpg",
+            "alt": "Iglesia de San Antonio",
+            "desc": ".."
+        },
+        "hint": "",
+        "curiosity": ""
+    },{
+        "id": 7,
+        "question": "Para contener el agua del río Tajo y evitar inundaciones se construyeron muros o diques bordeando la isla. ¿Qué otro elemento crees que contiene el agua del río?",
+        "answers":{
+            "a": "Las fuentes del paseo",
+            "b": "Un grupo de árboles",
+            "c": "Unas barandillas",
+            "d": "Una presa-"
+        },
+        "results":{
+            "a": false,
+            "b": false,
+            "c": false,
+            "d": true
+        },
+        "img_question":{
+            "url": "./img/presa",
+            "alt": "Presa",
+            "desc": ".."
+        },
+        "hint": "",
+        "curiosity": ""
+    },{
+        "id": 8,
+        "question": "¿Qué animales acompañan a los infantes de la fuente de la Mariblanca?",
+        "answers":{
+            "a": "Delfines-",
+            "b": "Tiburones",
+            "c": "Camaleones",
+            "d": "Merluzas"
+        },
+        "results":{
+            "a": true,
+            "b": false,
+            "c": false,
+            "d": false
+        },
+        "img_question":{
+            "url": "./img/fuente-de-mariblanca",
+            "alt": "Fuente de Mariblanca",
+            "desc": ".."
+        },
+        "hint": "",
+        "curiosity": ""
+    },{
+        "id": 9,
+        "question": "Si rodeas la Plaza de Toros hacia tu izquierda desde la puerta principal, te encontrarás con la “Puerta de Cuadrillas”. ¿A cuál de estas instalaciones se accede por esa puerta?",
+        "answers":{
+            "a": "Cine antiguo",
+            "b": "Archivo histórico",
+            "c": "Museo taurino-",
+            "d": "Enfermería"
+        },
+        "results":{
+            "a": false,
+            "b": false,
+            "c": true,
+            "d": false
+        },
+        "img_question":{
+            "url": "./img/plazatoros.jpg",
+            "alt": "Plaza de Toros",
+            "desc": ".."
+        },
+        "hint": "",
+        "curiosity": ""
+    },{
+        "id": 10,
+        "question": "El antiguo Hospital de San Carlos se construyó durante el mandato de Carlos III. El edificio se rehabilitó y volvió a abrir sus puertas en mayo de 2022. ¿De cuál de estas instituciones es sede este antiguo hospital?",
+        "answers":{
+            "a": "Residencia Universitaria Real",
+            "b": "Universidad Rey Juan Carlos-",
+            "c": "Escuela de Bellas Artes",
+            "d": "Escuela Oficial de Idiomas"
+        },
+        "results":{
+            "a": false,
+            "b": true,
+            "c": false,
+            "d": false
+        },
+        "img_question":{
+            "url": "./img/hospital-san-carlos-jpg",
+            "alt": "Hospital San Carlos",
+            "desc": "Actual Universidad Rey Juan Carlos"
+        },
+        "hint": "",
+        "curiosity": ""
+    }
+    ]]
+    }
