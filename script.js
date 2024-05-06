@@ -23,6 +23,7 @@ function createRadioInputs(questionData, articleElement) {
   }
   articleElement.classList.add('question-pane');
 }
+
 function showQuestion(index) {
   const questions = questionsData[index];
   const section = document.getElementById('section');
@@ -36,6 +37,7 @@ function showQuestion(index) {
   // Habilitar el botón "Siguiente"
   document.getElementById('botonSig').disabled = false;
 }
+
 function validateAnswer(questionIndex, selectedAnswer) {
   const question = questionsData[questionIndex];
   const correctAnswer = Object.keys(question.results).find(key => question.results[key]);

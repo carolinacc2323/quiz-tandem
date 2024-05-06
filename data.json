@@ -1,10 +1,10 @@
 {
     "title":"Paisaje Cultural de  Aranjuez",
     "id_test":"",
-    "description": "Un paseo de una hora por los monumentos más representativos de Aranjuez",
-    "author": "Carol",
+    "description": "Un paseo por los monumentos más representativos de Aranjuez",
+    "author": "carol",
     "img_feature":{
-        "url": "./img/palacio.jpg",
+        "url": "./img/audiocapy.png",
         "alt": "Vista de la Plaza Mayor de Aranjuez"
     },
     "questions" : [[
@@ -37,7 +37,7 @@
             "a": "Puertas",
             "b": "Escaleras",
             "c": "Acueducto",
-            "d": "Galería portificada"
+            "d": "Galería porticada"
         },
         "results":{
             "a": false,
@@ -50,7 +50,7 @@
             "alt": "Galería",
             "desc": ".."
         },
-        "hint": "",
+        "hint": "Pista: Se trata de un espacio techado que rodea uno o varios lados ",
         "curiosity": ""
     },{
         "id": 3,
@@ -72,7 +72,7 @@
             "alt": "Casa de Oficios",
             "desc": ".."
         },
-        "hint": "",
+        "hint": "Pista: Servía para el mantenimiento",
         "curiosity": ""
     },{
         "id": 4,
@@ -94,7 +94,7 @@
             "alt": "Canal de agua",
             "desc": ".."
         },
-        "hint": "",
+        "hint": "Pista: Agua",
         "curiosity": ""
     },{
         "id": 5,
@@ -112,11 +112,11 @@
             "d": false
         },
         "img_question":{
-            "url": "./img/planojardin",
+            "url": "./img/planojardin.jpg",
             "alt": "Plano del Jardín de la Isla",
             "desc": ".."
         },
-        "hint": "",
+        "hint": "Pista: Su propio nombre lo indica",
         "curiosity": ""
     },{
         "id": 6,
@@ -138,7 +138,7 @@
             "alt": "Iglesia de San Antonio",
             "desc": ".."
         },
-        "hint": "",
+        "hint": "Pista: Su nombre procede del griego Pántheion, que significa el 'templo de todos los dioses'",
         "curiosity": ""
     },{
         "id": 7,
@@ -156,11 +156,11 @@
             "d": true
         },
         "img_question":{
-            "url": "./img/presa",
+            "url": "./img/presa.jpg",
             "alt": "Presa",
             "desc": ".."
         },
-        "hint": "",
+        "hint": "Pista: Barrera construida sobre un río o arroyo",
         "curiosity": ""
     },{
         "id": 8,
@@ -178,12 +178,12 @@
             "d": false
         },
         "img_question":{
-            "url": "./img/fuente-de-mariblanca",
+            "url": "./img/fuente-de-mariblanca.jpg",
             "alt": "Fuente de Mariblanca",
             "desc": ".."
         },
-        "hint": "",
-        "curiosity": ""
+        "hint": "Pista: Cetáceos",
+        "curiosity": "Los cetáceos forman una rama de los mamíferos acuáticos, la cual posee gran cantidad de especies. En la actualidad, existen noventa."
     },{
         "id": 9,
         "question": "Si rodeas la Plaza de Toros hacia tu izquierda desde la puerta principal, te encontrarás con la Puerta de Cuadrillas. ¿A cuál de estas instalaciones se accede por esa puerta?",
@@ -204,8 +204,8 @@
             "alt": "Plaza de Toros",
             "desc": ".."
         },
-        "hint": "",
-        "curiosity": ""
+        "hint": "Pista: Lugar en que se conservan y exponen colecciones de objetos artísticos, científicos, etcétera.",
+        "curiosity": "Institución, sin fines de lucro, cuya finalidad consiste en la adquisición, conservación, estudio y exposición al público de objetos de interés cultural."
     },{
         "id": 10,
         "question": "El antiguo Hospital de San Carlos se construyó durante el mandato de Carlos III. El edificio se rehabilitó y volvió a abrir sus puertas en mayo de 2022. ¿De cuál de estas instituciones es sede este antiguo hospital?",
@@ -222,11 +222,11 @@
             "d": false
         },
         "img_question":{
-            "url": "./img/hospital-san-carlos-jpg",
+            "url": "./img/hospital-san-carlos-aranjuez.jpg",
             "alt": "Hospital San Carlos",
             "desc": "Actual Universidad Rey Juan Carlos"
         },
-        "hint": "",
+        "hint": "Pista: Institución de enseñanza superior",
         "curiosity": ""
     }
     ]]

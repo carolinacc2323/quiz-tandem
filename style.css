@@ -7,3 +7,7 @@ margin: 1em;
 .question-image{
     width: 300px;
 }
+.titulo h1{
+    color: #e7bc1f;
+    font-size: 60px;
+}
