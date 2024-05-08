@@ -1,8 +1,8 @@
 {
-    "title":"Paisaje Cultural de  Aranjuez",
+    "title":"Ruta Cultural de  Aranjuez",
     "id_test":"",
-    "description": "Un paseo por los monumentos más representativos de Aranjuez",
-    "author": "carol",
+    "description": "Un paseo por los monumentos históricos de Aranjuez",
+    "author": "",
     "img_feature":{
         "url": "./img/audiocapy.png",
         "alt": "Vista de la Plaza Mayor de Aranjuez"
