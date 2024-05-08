@@ -21,6 +21,7 @@ height: 100%;
 /* Clase para mostrar */
 .question-image{
     width: 600px;
+    align-items: center;
 }
 .title{
     padding: 0.5em;
@@ -46,5 +47,5 @@ height: 100%;
 }
 .title img{
     grid-area: imagen;
-    width: 350px;
+    width: 250px;
 }
